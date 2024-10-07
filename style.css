@@ -1,78 +1,78 @@
 {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
 }
 body {
-	font-family: 'Arial', sans-serif;
-	background-color: #f2f2f2;
-	text-align: center;
-	padding: 20px;
+	font-family:'Arial', sans-serif;
+	background-color:#f2f2f2;
+	text-align:center;
+	padding:20px;
 }
-h1 {
-	font-size: 2.5;
-	margin-bottom: 20px;
+h1{
+	font-size:2.5;
+	margin-bottom:20px;
 }
-.myimg {
-	width: 150px;
-	height: 150 px;
-	border-radius: 50%;
-	object-fit: cover;
-	margin-bottom: 20px;
+.myimg{
+	width:150px;
+	height:150 px;
+	border-radius:50%;
+	object-fit:cover;
+	margin-bottom:20px;
 }
-h2 {
-	font-size: 2;
-	margin: 20px 0;
+h2{
+	font-size:2;
+	margin:20px 0;
 }
-p {
-	font-size: 1.2;
-	margin-bottom: 20px;
-	line-height: 1.5;
+p{
+	font-size:1.2;
+	margin-bottom:20px;
+	line-height:1.5;
 }
-.descriptions {
-	margin-bottom: 20px;
+.descriptions{
+	margin-bottom:20px;
 }
-.descriptions span {
-	display: inline-block;
-	margin: 0 10px;
-	padding: 10px 20px;
-	background-color: #ffd700;
-	color: #333;
-	font-weight: bold;
-	border-radius: 5px;
+.descriptions span{
+	display:inline-block;
+	margin:0 10px;
+	padding:10px 20px;
+	background-color:#ffd700;
+	color:#333;
+	font-weight:bold;
+	border-radius:5px;
 }
-ul {
-	list-style-type: none;
-	padding: 0;
-	margin: 20px 0;
+ul{
+	list-style-type:none;
+	padding:0;
+	margin:20px 0;
 }
-ul li {
-	font-size: 1.1;
-	margin-bottom: 10px;
+li{
+	font-size:1.1;
+	margin-bottom:10px;
 }
-blockquote {
-	font-style: italic;
-	margin: 30px auto;
-	font-size: 1.5;
-	color: #555;
+blockquote{
+	font-style:italic;
+	margin:30px auto;
+	font-size:1.5;
+	color:#555;
 }
-a {
-	display: inline-block;
-	margin: 20px;
-	padding: 10px 20px;
-	background-color: #333;
+a{
+	display:inline-block;
+	margin:20px;
+	padding:10px 20px;
+	background-color:#333;
 	color: white;
-	text-decoration: none;
-	border-radius: 5px;
+	text-decoration:none;
+	border-radius:5px;
 }
-a:hover {
-	background-color: #555;
+a:hover{
+	background-color:#555;
 }
-.container {
-	max-width: 800px;
-	margin: 0 auto;
+.container{
+	max-width:800px;
+	margin:0 auto;
 }
-body.bibliography {
+body.bibliography{
 	font-family: 'Times New Roman', Times, serif;
 	background-color: #f2f2f2;
 }
